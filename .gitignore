@@ -33,6 +33,12 @@ MANIFEST
 *.manifest
 *.spec
 
+# Adding config.py file.
+config.py
+#Additional files
+API_practice.ipynb
+random_numbers.ipynb
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
